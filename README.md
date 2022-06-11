@@ -14,7 +14,10 @@ is this enough for me to learn how to code, how about you?
 ## Tools / software required
 
 system: windows 10
-software: Visual Studio Code / Google chrome / Github desktop
+software:
+Visual Studio Code https://code.visualstudio.com/
+Google chrome  https://www.google.com/chrome/downloads/
+Github desktop https://desktop.github.com/
 
 
 
@@ -33,4 +36,8 @@ software: Visual Studio Code / Google chrome / Github desktop
 ## 必要的工具软件
 
 系统: windows 10
-软件: Visual Studio Code / Google chrome / Github desktop
+软件及下载链接: 
+Visual Studio Code https://code.visualstudio.com/
+Google chrome  https://www.google.com/chrome/downloads/
+Github desktop https://desktop.github.com/
+
